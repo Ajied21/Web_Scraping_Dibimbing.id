@@ -1,4 +1,4 @@
-# Tokopedia Laptop Gaming Scraper
+# Tokopedia Laptop Gaming Scraper @Dibimbing.id
 
 ## Deskripsi
 
